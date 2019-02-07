@@ -21,9 +21,14 @@ body {
 	padding: 0 45px 20px;
 }
 
-/* Write all remaining styles here */
 h1 {
 	font-size: 5em;
 	font-weight: normal;
 	font-family: 'Baskerville', serif;
+}
+/* Write all remaining styles here */
+
+header a {
+	color: rgb(152,173,166);
+	text-decoration: none;
 }
