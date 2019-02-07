@@ -6,6 +6,9 @@
 	src: url(../fonts/Baskerville.ttc);
 }
 
+.small {
+	font-size: 0.8em;
+}
 /*////////// Global Styles //////////*/
 
 * {
